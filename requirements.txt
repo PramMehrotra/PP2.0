@@ -1,0 +1,12 @@
+langchain
+ollama
+python-dotenv
+imapclient
+groq
+opencv-python
+ultralytics
+pillow
+torch
+torchvision
+langchain-ollama
+pytz
